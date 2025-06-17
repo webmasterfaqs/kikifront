@@ -42,3 +42,5 @@ next-env.d.ts
 node_modules*
 .next # Next.js build output
 build.log # very large log you showed earlier
+bun.lockb
+yarn.lock
